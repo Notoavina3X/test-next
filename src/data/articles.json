@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "title": "Introduction à Next.js",
+    "description": "Découvrez les bases de Next.js et ses fonctionnalités principales",
+    "image": "/images/nextjs-intro.png",
+    "content": "Next.js est un framework React qui permet de créer des applications web performantes...\n\nIl offre plusieurs modes de rendu : SSR, SSG, ISR...",
+    "createdAt": "2024-01-15T10:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "title": "TypeScript pour les débutants",
+    "description": "Apprenez TypeScript et ses avantages pour vos projets",
+    "image": "/images/ts.png",
+    "content": "TypeScript ajoute un système de types à JavaScript...",
+    "createdAt": "2024-01-20T14:30:00.000Z"
+  },
+  {
+    "id": "3",
+    "title": "Optimisation des images",
+    "description": "Comment optimiser vos images avec next/image",
+    "image": "/images/image-optimization.jpg",
+    "content": "L'optimisation des images est cruciale pour les performances...",
+    "createdAt": "2024-01-25T09:15:00.000Z"
+  }
+]
